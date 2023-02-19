@@ -2,9 +2,6 @@
 #!/bin/bash
 #this application make a photo and after that you can recognize photographed object 
 echo "Starting Vision System Application to recognize OralB and Watch"
-cd ~
-cd Desktop
-cd visionSystemObjectRecognition
 source bin/activate
 
 #python3 object_detect_sift_3_objects.py
